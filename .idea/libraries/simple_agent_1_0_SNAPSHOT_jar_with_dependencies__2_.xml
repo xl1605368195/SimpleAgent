@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="simple-agent-1.0-SNAPSHOT-jar-with-dependencies (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/simple-agent-1.0-SNAPSHOT-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
