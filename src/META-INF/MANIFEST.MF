@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Agent-Class: com.demo.Agent
+Premain-Class: com.dianping.rhino.agent.AgentBoot
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
