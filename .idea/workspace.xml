@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffd91a4-37fe-4e80-a92e-c53d63ef9def" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="dffd91a4-37fe-4e80-a92e-c53d63ef9def" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/SmithProbe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/asm/SmithClassNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/asm/SmithClassWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/asm/SmithMethodNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/asm/SmithProbeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/asm/SmithRetProbeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/client/Operate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/client/ProbeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/client/ProbeNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/client/ProtocolBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/common/ProcessHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/log/SmithLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/process/ByteArrayProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/process/DatagramPacketProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/process/DatagramSocketProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/process/FileDescriptorProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/process/IntegerArrayProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/process/ObjectArrayProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/process/ProcessProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/process/ProtocolFamilyProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/type/SmithClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/type/SmithJar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/type/SmithMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meituan/sec/type/SmithTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/class.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/process.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +95,9 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
     <option name="useGoPathFromSystemEnvironment" value="false" />
@@ -74,23 +107,23 @@
       <map>
         <entry key="$PROJECT_DIR$/../btrace-master" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../spring-framework-master" value="PREVIEW" />
-        <entry key="$USER_HOME$/IdeaProjects/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/btrace" value="PREVIEW" />
-        <entry key="$USER_HOME$/btrace1.3/btrace" value="PREVIEW" />
-        <entry key="$USER_HOME$/fix/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/fork2.2/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/kill/11/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/kill/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/origin/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/project/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/test/hibernate-orm" value="PREVIEW" />
-        <entry key="$USER_HOME$/v2.2.2/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/v2.2/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/xule/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/xule01/hids-rasp/src/rasp/agent" value="PREVIEW" />
-        <entry key="$USER_HOME$/xule2019/asm" value="PREVIEW" />
-        <entry key="$USER_HOME$/xule2019/btrace" value="PREVIEW" />
-        <entry key="$USER_HOME$/zero/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IdeaProjects/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../btrace" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../btrace1.3/btrace" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fix/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fork2.2/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kill/11/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../kill/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../origin/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../project/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../test/hibernate-orm" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../v2.2.2/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../v2.2/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../xule/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../xule01/hids-rasp/src/rasp/agent" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../xule2019/asm" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../xule2019/btrace" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../zero/hids-rasp/src/rasp/agent" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -120,14 +153,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$USER_HOME$/Desktop/zeussetting" />
-        <option name="userSettingsFile" value="$USER_HOME$/Desktop/zeussetting/settings.xml" />
+        <option name="localRepository" value="$PROJECT_DIR$/../Desktop/zeussetting" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../Desktop/zeussetting/settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="NodePackageJsonFileManager">
@@ -139,6 +167,7 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectId" id="1vALafAAegoCkFQTZU6kNebiSjo" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -238,13 +267,22 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -254,64 +292,41 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/meituan/sec" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.meituan.sec" />
+      <recent name="com.meituan.sec.log" />
+      <recent name="com.meituan.sec.common" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -367,8 +382,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
